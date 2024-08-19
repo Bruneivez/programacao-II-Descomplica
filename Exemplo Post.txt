@@ -1,0 +1,41 @@
+Exemplo da estrutura para fazer o Post
+
+criar Doctor
+
+{
+    "doctorId": "D004",
+    "name": "Dr. Bruno Smith",
+    "login": "bruno",
+    "password": "Bruno@1993",
+    "medicalSpecialty": "Neurology",
+    "medicalRegistration": "CRM54323",
+    "email": "bruno@example.com",
+    "phone": "9987654321"
+}
+
+criar Pacient
+
+{
+    "name": "Alice Johnson",
+    "birthDate": "1990-05-15",
+    "email": "alice.johnson@example.com",
+    "phone": "1234567890"
+}
+
+cria Apponitment
+
+{
+    "date": "2024-08-30T10:00:00Z",
+    "doctorId": "D004",
+    "pacientId": "P001"
+}
+
+Criar Prescription
+
+{
+    "date": "2024-08-19T14:30:00Z",
+    "appointmentId": "A123",
+    "medicine": "Ibuprofen",
+    "dosage": "200mg",
+    "instruction": "Take one tablet every 8 hours"
+}
