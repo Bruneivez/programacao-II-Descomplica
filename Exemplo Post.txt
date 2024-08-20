@@ -22,7 +22,7 @@ criar Pacient
     "phone": "1234567890"
 }
 
-cria Apponitment
+cria Appointment
 
 {
     "date": "2024-08-30T10:00:00Z",
